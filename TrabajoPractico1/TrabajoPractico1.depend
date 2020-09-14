@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599969448 source:c:\users\joel_\onedrive\desktop\programacion\tp1\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"lib.h"
+
+1599965769 c:\users\joel_\onedrive\desktop\programacion\tp1\trabajopractico1\lib.h
+
